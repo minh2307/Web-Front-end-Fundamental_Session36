@@ -32,3 +32,7 @@ function register() {
     location.href = "ss36-bt7-logIn.html";
   }
 }
+
+function logOut() {
+  location.href = "ss36-bt7-logIn.html";
+}
